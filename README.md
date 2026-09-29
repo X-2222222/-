@@ -31,7 +31,11 @@
 　房源編號自動產生
 
 系統畫面
+
 <img width="267" height="527" alt="image" src="https://github.com/user-attachments/assets/778a197a-0a5e-4150-b5ec-2afdd6a21d46" />
+
+<img width="273" height="525" alt="image" src="https://github.com/user-attachments/assets/f42a724e-30e0-4703-b59f-dc2d1ca29096" />
+
 
 系統操作
 執行程式後會顯示以下功能選單：
